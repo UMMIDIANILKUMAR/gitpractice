@@ -1,0 +1,9 @@
+length - it will total length - "anil" - 4 || var arr = ["anil","kumar"] - 2 || arr[0].length - 4  || arr[0].length - 4 
+
+
+index = length-1
+
+let array=["anil","kumar","ummmidi","hey","how", "are","you"]
+
+// let strings="anilgjhgkhlhlihli , sad,jbfskj,fsb,kjfne,jfnb,jkdb,kjsb,gfyfjgiyf"
+// let string1=["hello"]
