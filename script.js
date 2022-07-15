@@ -34,12 +34,21 @@ for (let i=0;i<10;i++){
 
 let hello5 = document.getElementById("hello4")
 main.removeChild(hello5)
-var break11 = document.createElement("BR")
+var break11 = "<br>"
 
 for(let i=0;i<5;i++){
-    document.write("hello hiii hello"+i+"\r\n")    
+    document.write("hello hiii hello"+i+`${break11}`)    
 
 }
+let hello6 = document.getElementById("hello6")
+hello6.innerHTML="hello"
+let hello66 = document.createElement("a")
+hello66.innerHTML="hello66"
+hello6.appendChild(hello66)
+hello6.onclick = function(){
+    hello6.style.color="blue"
+}
 
+ 
 
 

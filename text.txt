@@ -7,3 +7,10 @@ let array=["anil","kumar","ummmidi","hey","how", "are","you"]
 
 // let strings="anilgjhgkhlhlihli , sad,jbfskj,fsb,kjfne,jfnb,jkdb,kjsb,gfyfjgiyf"
 // let string1=["hello"]
+
+
+*
+**
+***
+****
+*****
