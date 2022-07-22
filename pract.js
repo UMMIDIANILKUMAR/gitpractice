@@ -6,3 +6,4 @@ function loadDoc() {
     xhttp.open("GET", "jquery.html");
     xhttp.send();
   }
+  
